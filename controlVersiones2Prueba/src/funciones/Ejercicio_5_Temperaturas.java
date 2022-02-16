@@ -21,7 +21,7 @@ public class Ejercicio_5_Temperaturas {
         System.out.println("La temperatura más baja durante el año ha sido " + (tempMaxMin[1]) + " siendo el mes de " + (mesFrio(temperaturaMes)));
         System.out.println("La temperatura media del año ha sido de " + temperaturaMes[12]);
     }
-
+//comentario de prueba
     //Calcula temperatura media de todo el año
     public static float tempMediaAño(float temperaturaMes[]) {
         float acumulador = 0.0f;
